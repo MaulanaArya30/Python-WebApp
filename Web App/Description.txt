@@ -1,0 +1,4 @@
+This project is made with the help from tech with tim's tutorial video
+
+Contains boostrap templates, Pyhton main frame, Flask, SQLAlchemy, also
+contains a database for user
